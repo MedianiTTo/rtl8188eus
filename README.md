@@ -1,5 +1,8 @@
 # rtl8188eus
-Wifi driver support for rtl8188eu, rtl8188eus and rtl8188etv chips and working under the new linux kernel (5.1.x).
+A modified Wifi driver support for rtl8188eu, rtl8188eus and rtl8188etv chips and working under the new linux kernel (5.1.x).
+
+I modified this fork to enhance multiplexing for faster operation and tweaking the signal.
+
 More information about your wifi device can be found here: https://wikidevi.com.
 
 Compiling & Building
